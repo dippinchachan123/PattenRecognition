@@ -1,0 +1,2 @@
+Scripts are in Assets folder
+See basicidea.jpg to understan the basic concept
